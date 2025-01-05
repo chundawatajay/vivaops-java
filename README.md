@@ -1,4 +1,4 @@
-*******Run directly without packaging the ap through mvn
+*******Run directly without packaging the app through mvn
 
 Install java 17
 mvn spring-boot:run
